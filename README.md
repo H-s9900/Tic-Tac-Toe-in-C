@@ -43,7 +43,7 @@ Make sure you have **Raylib** installed on your system.
 Run the following command to compile:
 
 ```sh
-gcc test.c -o test -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+gcc ./test.c -o test.exe -I C:\raylib\include -L C:\raylib\lib -lraylib -lopengl32 -lgdi32 -lwinmm
 ```
 
 ### 3️⃣ Run the Game
