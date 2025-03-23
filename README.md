@@ -4,6 +4,17 @@ A simple yet fun Tic-Tac-Toe game built using **C and Raylib**! Play in **single
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Main Menu
+![image](https://github.com/user-attachments/assets/3eabeaaf-efb6-423f-851a-16d8b0f53d21)
+
+### 🏆 Winning Screen
+![image](https://github.com/user-attachments/assets/a5bf3575-dd53-427e-83fd-582ec4ef2af5)
+![image](https://github.com/user-attachments/assets/c398aa22-a595-42cb-a4fe-005a98b42e84)
+
+---
+
 ## 🚀 Features
 
 ✔️ Single-player mode with a basic AI 🤖\
