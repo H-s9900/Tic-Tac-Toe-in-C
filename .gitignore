@@ -1,0 +1,29 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.so
+*.dll
+*.a
+*.lib
+
+# Logs and caches
+*.log
+*.tmp
+*.cache
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# Raylib libraries (if included separately)
+raylib/
+raylib-*.zip
+raylib-*/**
+
+# Build system files
+CMakeFiles/
+CMakeCache.txt
+Makefile
